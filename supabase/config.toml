@@ -1,0 +1,4 @@
+project_id = "kihnrrddtceuqvlzlxiq"
+
+[functions.why-game]
+verify_jwt = false
